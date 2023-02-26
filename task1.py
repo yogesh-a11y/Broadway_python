@@ -7,3 +7,6 @@ l = [1,2,4,2,1,4,5,6,2,1,6,3]
 number = int(input("Enter a desire number:"))
 count = l.count(number)
 print(count)
+
+#For Branch2
+print("Hello world")
